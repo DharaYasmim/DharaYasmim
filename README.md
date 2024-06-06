@@ -7,10 +7,10 @@ Currently, I am expanding my skills in UX/UI Design and utilizing Bitrix24 in. I
 Check out my projects on GitHub
 
 Tools:<br>
-<img src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="40px" href="https://www.figma.com"> 
-<img src="https://cdn.iconscout.com/icon/free/png-256/free-postman-3521648-2945092.png?f=webp" width="40px" href="https://postman.com">
-<img src="https://github.com/DharaYasmim/DharaYasmim/assets/170812908/e03cb5fb-203d-40e8-9b02-5166d5e29266" width="40px" href="https://Jira.com">
-<img src="https://n8niostorageaccount.blob.core.windows.net/n8nio-strapi-blobs-stage/assets/bitrix24_a866c85a7b.png" width="40px" href="https://bitrix24.com">
+<img href="https://www.figma.com" target="_blank" src="https://cdn-icons-png.flaticon.com/512/5968/5968705.png" width="40px"> 
+<img src="https://cdn.iconscout.com/icon/free/png-256/free-postman-3521648-2945092.png?f=webp" width="40px" href="https://postman.com" target="_blank">
+<img src="https://github.com/DharaYasmim/DharaYasmim/assets/170812908/e03cb5fb-203d-40e8-9b02-5166d5e29266" width="40px" href="https://Jira.com" target="_blank">
+<img src="https://n8niostorageaccount.blob.core.windows.net/n8nio-strapi-blobs-stage/assets/bitrix24_a866c85a7b.png" width="40px" href="https://bitrix24.com" target="_blank">
 
 
 
